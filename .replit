@@ -1,2 +1,2 @@
-language = "HTML, CSS, JS"
-
+language = "html"
+run = "index.html"
